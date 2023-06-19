@@ -1,3 +1,1 @@
-#!/bin/bash
-systemctl start nginx
-echo "ngnix server started"
+changes done for this fie"
